@@ -1,1 +1,1 @@
-# odin-recipes
+The index.html file comtain list of recipes and each recipes will lead you to page that contain ingredients and steps prepare.
